@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<name IP="HostName">
+		<value>192.168.8.10</value>
+	</name>
+	<name DB="DB">
+		<value>hicmdb</value>
+	</name>
+	<name UID="UID">
+		<value>hicm_user</value>
+	</name>
+	<name PWD="PWD">
+		<value>12345678</value>
+	</name>
+	  <name PORT="PORT">
+ 	   	<value>3306</value>
+  	</name>
+ 	  <name OZIP="ZIP">
+  		  <value>C:\AIPN</value>
+  	</name>	
+</Config>
+ 

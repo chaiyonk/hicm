@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <name IP="HostName">
+    <value>127.0.0.1</value>
+  </name>
+  <name DB="DB">
+    <value>upl_api</value>
+  </name>
+  <name UID="UID">
+    <value>upluser</value>
+  </name>
+  <name PWD="PWD">
+    <value>12345678</value>
+  </name>
+  <name PORT="PORT">
+    <value>3306</value>
+  </name>
+  <name PATH="PATH">
+    <value>C:\Users\DELL\Desktop\UPL_APP</value>
+  </name>
+  <name MSACC1="MSACC1">
+    <value>C:\Users\DELL\Desktop\UPL_APP\Request.mdb</value>
+  </name>
+  <name MSACC2="MSACC2">
+    <value>C:\Users\DELL\Desktop\UPL_APP\Result.mdb</value>
+  </name>
+  <name Minio="Minio_Server">
+    <value>127.0.0.1:9000</value>
+  </name>
+  <name Minio="ACCESS_KEY">
+    <value>fadzWiGuAOGKehEm</value>
+  </name>
+  <name Minio="SECRET_KEY">
+    <value>PKn3Pc3Zqw67n1hfTbBXf1TBrc6cx3cU</value>
+  </name>
+  <name Minio="BUCKET">
+    <value>request</value>
+  </name>
+  <name MSACC3="MSACC3">
+    <value>C:\Users\DELL\Desktop\UPL_APP\Request_cyto.mdb</value>
+  </name>
+  <name TIMER="TIMER">
+    <value>C:\Users\DELL\Desktop\UPL_APP</value>
+  </name>
+</Config>

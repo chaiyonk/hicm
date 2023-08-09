@@ -1,0 +1,266 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mdr
+</name>
+</assembly>
+<members>
+<member name="T:mdr.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources._1336365421_file_extension_xls">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources._4f573f62a4b12f43147574e1b831d4c1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources._929409">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.add_circle_outline_120x120">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.api_ong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.api_ong1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.api_ong222">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.b_drop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.cloud_upload_outline_120x120">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.cross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.failure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.failure___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.LOG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.LOGO_HOSP">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.mic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Microsoft_Office_Access__2019_present__svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Microsoft_Office_Access__2019_present_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Microsoft_Office_Access__2019_present_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Microsoft_Office_Access__2019_present_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.onebit_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.onebit_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.onebit_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.onebit_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.onebit_31">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.play">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.play1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.png_transparent_database_icon_database_free_blue_background_blue_angle_world">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.printer_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.sp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.success">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.success___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.tcb2023">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.user_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.workflow_process_icon_flat_style_gear_cog_wheel_arrows_workflow_process_icon_flat_style_gear_cog_wheel_arrows_125677446">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.workflow_process_icon_flat_style_gear_cog_wheel_arrows_workflow_process_icon_flat_style_gear_cog_wheel_arrows_1256774461">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.workflow_process_icon_flat_style_gear_cog_wheel_arrows_workflow_process_icon_flat_style_gear_cog_wheel_arrows_1256774462">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:mdr.ReportData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:mdr.ReportData.QRCodeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:mdr.ReportData.vaccine_genqrcodeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:mdr.ReportData.patientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:mdr.ReportData.QRCodeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:mdr.ReportData.vaccine_genqrcodeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:mdr.ReportData.patientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:mdr.ReportData.QRCodeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:mdr.ReportData.vaccine_genqrcodeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:mdr.ReportData.patientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<name IP="HostName">
+		<value>192.168.8.2</value>
+	</name>
+	<name DB="DB">
+		<value>hi</value>
+	</name>
+	<name UID="UID">
+		<value>hiuser</value>
+	</name>
+	<name PWD="PWD">
+		<value>pktat2@xs</value>
+	</name>
+	<name SECRET="SECRET">
+		<value>ADMIN##HI7UBONKET10##TEST</value>
+	</name>
+	<name PORT="PORT">
+		<value>3306</value>
+	</name>
+	<name API="API">
+		<value>http://192.168.8.107:30015</value>
+	</name>	
+</Config>
+ 
