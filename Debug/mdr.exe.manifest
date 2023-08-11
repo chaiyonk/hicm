@@ -1837,7 +1837,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9j2zYE1xbUd+d8qw766LWZRYiPWE5f2QfxgZFOJBJXM=</dsig:DigestValue>
+        <dsig:DigestValue>0TBPGs5X+cZMfGZLkvKnlVXuTsjjxMl2dQdXSIpO+UA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1861,7 +1861,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YJeWpwuOvSh+wN7TM9J6qsIxnIukrFDGr572P0IDK7w=</dsig:DigestValue>
+        <dsig:DigestValue>zvf2y3gwQ5Iqxs2+BB0TmYd809OgOHJtQnCp52JCDQ0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1926,14 +1926,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.mshtml.dll" size="8027504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.mshtml.dll" size="8027424">
       <assemblyIdentity name="Microsoft.mshtml" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sT/LywYvpaL3GBuLMWoE99mN8n/cR6Kg0zeL4Bvxmos=</dsig:DigestValue>
+        <dsig:DigestValue>smO9tRnN6Rw1ncQmJ6hrcU/DMirakx/30Wn+31T/ZFc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
