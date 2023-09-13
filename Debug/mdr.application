@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="mdr.exe.manifest" size="138908">
+    <dependentAssembly dependencyType="install" codebase="mdr.exe.manifest" size="40746">
       <assemblyIdentity name="mdr.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2JWz6YtAYMLX/JwoTEiwTING2hgpP9R4mvfi6MZPX3E=</dsig:DigestValue>
+        <dsig:DigestValue>qaK6gXoUSxc+7pgUsLvO9jCT+0FSiJp4HcfzSb9h3Hk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
