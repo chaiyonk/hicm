@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-874"?>
+<CIPN>
+  <Header>
+    <DocClass>IPClaim</DocClass>
+    <DocSysID version="2.1">AIPN</DocSysID>
+    <serviceEvent>ADT</serviceEvent>
+    <authorID>10954</authorID>
+    <authorName>โรงพยาบาลวารินชำราบ</authorName>
+    <effectiveTime>2022-08-06T00:00:00</effectiveTime>
+  </Header>
+  <ClaimAuth>
+    <AuthCode></AuthCode>
+    <AuthDT></AuthDT>
+    <UPayPlan>80</UPayPlan>
+    <ServiceType>IP</ServiceType>
+    <ProjectCode></ProjectCode>
+    <EventCode></EventCode>
+    <UserReserve></UserReserve>
+    <Hmain>10668</Hmain>
+    <Hcare>10668</Hcare>
+    <CareAs>M</CareAs>
+    <ServiceSubType></ServiceSubType>
+  </ClaimAuth>
+  <IPADT>
+    65035683|000326681|0|1234567891234|1940-07-06|1|2|32|01|99|C|O|2022-05-24T13:57:46|2022-06-10T18:00:00|0|2|1|53.000|39|01
+  </IPADT>
+  <IPDx Reccount="2">
+    1|1|ICD-10|N185|Chronic kidney disease, stage 5|6580|2022-06-23
+    2|2|ICD-10|J90|Pleural effusion, not elsewhere classified|46580|2022-07-01
+  </IPDx>
+  <IPOp Reccount="2">
+    1|ICD9CM|3424|N/A|46580|2022-05-27T14:00:00|2022-05-27T18:00:00|Med2(14/4)
+    2|ICD9CM|3491|N/A|46580|2022-05-31T09:15:00|2022-05-31T13:15:00|Med2(14/4)
+   </IPOp>
+  <Invoices>
+    <InvNumber>3570353</InvNumber>
+    <InvDT>2022-06-10T00:00:00</InvDT>
+    <BillItems Reccount="2">
+      1|2022-06-09T00:00:00|03|1000037|Omeprazole inj. 40 mg|17.00|16.0000|272.0000|0.0000|0|0|CS|03||TMT|105380|D|2021-02-09|0.00|0.0000
+      2|2022-06-10T00:00:00|03|1000040|Omeprazole 20 mg|20.00|1.5000|30.0000|0.0000|0|0|CS|03||TMT|104721|D|2020-10-26|0.00|0.0000
+    </BillItems>
+    <InvAddDiscount>0.00</InvAddDiscount>
+    <DRGCharge>30394.7500</DRGCharge>
+    <XDRGClaim>12130.0000</XDRGClaim>
+  </Invoices>
+  <Coinsurance>
+    <Insurance>
+      <InsTypeCode></InsTypeCode>
+      <InsTotal></InsTotal>
+      <InsRoomBoard></InsRoomBoard>
+      <InsProfFee></InsProfFee>
+      <InsOther></InsOther>
+    </Insurance>
+  </Coinsurance>
+</CIPN>

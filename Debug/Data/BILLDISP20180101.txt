@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-874"?> 
+<ClaimRec System="OP" PayPlan="SS" Version="0.93">
+<Header>
+<HCODE>10000</HCODE>
+<HNAME>โรงพยาบาล ตัวอย่าง </HNAME>
+<DATETIME>2018-01-01T15:20:35</DATETIME>
+<SESSNO>0001</SESSNO>
+<RECCOUNT>1</RECCOUNT>
+</Header>
+ <Dispensing>
+10000|201801010002|201801010001|12345|1234567890111|2018-01-01T13:20:00|2018-01-01T13:32:00|ว0000|3|409.50|409.50|0.00|0.00|HP|SS|1|201801010003|
+</Dispensing>
+<DispensedItems>
+201801010002|1|1110|104539  ||Omeprazole 20mg |เม็ด||ครั้งละ1เม็ด ก่อนอาหารเช้าเย็น|70 |1.00|70.00|1.00|70.00||OD|OP1||
+201801010002|1|1200|286107 ||Clarithromycin 500 mg |เม็ด||ครั้งละ1เม็ด ก่อนอาหารเช้าเย็น|14 |13.00|182.00|13.00|182.00||OD|OP1||
+201801010002|1|1300|241215||Amoxicillin 500 mg|เม็ด||ครั้งละ2เม็ด หลังอาหารเช้าเย็น|30 |1.75|52.50|1.75|52.50||OD|OP1||
+</DispensedItems>
+</ClaimRec>
+<?EndNote Checksum="CB61B998A575A981EAFDF8EF8F2B149B"?>

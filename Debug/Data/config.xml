@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <name IP="HostName">
+    <value>localhost</value>
+  </name>
+  <name DB="DB">
+    <value>hi</value>
+  </name>
+  <name UID="UID">
+    <value>hiuser</value>
+  </name>
+  <name PWD="PWD">
+    <value>212224</value>
+  </name>
+  <name OZIP="ZIP">
+    <value>C:\AIPN</value>
+  </name>
+  <name PORT="PORT">
+    <value>3306</value>
+  </name>
+  <name CLN="CLN">
+    <value>SI100</value>
+  </name>
+</Config>

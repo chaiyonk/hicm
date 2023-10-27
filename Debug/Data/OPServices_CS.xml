@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-874"?>
+<ClaimRec System="OP" PayPlan="CS" Version="0.93" Prgs="HI">
+<Header>
+<HCODE>10000</HCODE>
+<HNAME>โรงพยาบาล ตัวอย่าง </HNAME>
+<DATETIME>2018-01-01T15:20:35</DATETIME>
+<SESSNO>0001</SESSNO>
+<RECCOUNT>1</RECCOUNT>
+</Header>
+<OPServices>
+201801010001|201801010003|EC|10000|12345|1234567890111|1|01|1|1||ว0000|01|2018-01-01T13:10:00|2018-01-01T13:20:00||||400.00|Y||OP1
+</OPServices>
+<OPDx>
+EC|201801010003|1|IT|K279|peptic ulcer disease 
+</OPDx>
+</ClaimRec>
