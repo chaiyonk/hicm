@@ -217,7 +217,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>onU7VunPZLn6fdC5RXzR4nq9no6FxRNFquzbKKm259U=</dsig:DigestValue>
+        <dsig:DigestValue>yhjQCvrqf8Fcg7CKD59+AzuL/1JeH/M8SNX5tL1bgs8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -270,14 +270,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="1916888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="1918936">
       <assemblyIdentity name="mdr" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>runeYf6RBMr4ehniEVqfVw0wCjEvSARcfsGQMp3z1d8=</dsig:DigestValue>
+        <dsig:DigestValue>auh6PMrBiSXz6/jYHbbdsKHUORb9X6EhGjUfmekyr1E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
