@@ -157,6 +157,11 @@ mdr
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:mdr.My.Resources.Resources.Plogo_f6506bc1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:mdr.My.Resources.Resources.png_transparent_database_icon_database_free_blue_background_blue_angle_world">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

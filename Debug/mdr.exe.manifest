@@ -217,7 +217,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QQJLI/GU6PAORp+rwnccRBmyNKsSx6NHIhwcFsYkpl8=</dsig:DigestValue>
+        <dsig:DigestValue>2FZqjM8ldwCi0kY82AYhRBONqRe5oTD6sRbzIlE1Exc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -270,14 +270,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="1977344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="2013184">
       <assemblyIdentity name="mdr" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3f+ZTRel4ljbeNYEFWsJVBXEJiF/N1xlFaQ8IuLhdX4=</dsig:DigestValue>
+        <dsig:DigestValue>B5wjOkCcA419EkkFOjM1tq47V1kQy5IdGroRPHflMUM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -354,38 +354,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.Core.dll" size="121752">
-      <assemblyIdentity name="Microsoft.Web.WebView2.Core" version="1.0.664.37" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.Core.dll" size="739928">
+      <assemblyIdentity name="Microsoft.Web.WebView2.Core" version="1.0.2415.0" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1yfMn3yreqhBz4ad/lj+vSydSM/gwGco2Ho6mIfpeqA=</dsig:DigestValue>
+        <dsig:DigestValue>2qohjvUuzA9be1kz3bHlHasdEC3q5VoVyI20Jvqn1YU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.WinForms.dll" size="27040">
-      <assemblyIdentity name="Microsoft.Web.WebView2.WinForms" version="1.0.664.37" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.WinForms.dll" size="40512">
+      <assemblyIdentity name="Microsoft.Web.WebView2.WinForms" version="1.0.2415.0" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ks2kLg4Zd9iZokSwwMv69lJq81Y8ADSHyYU63CRTtDM=</dsig:DigestValue>
+        <dsig:DigestValue>gZcv7pqKXtcJAzyuSybp4jON0sm8PrSCc4qG5ZDs9Jg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.Wpf.dll" size="30616">
-      <assemblyIdentity name="Microsoft.Web.WebView2.Wpf" version="1.0.664.37" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.Wpf.dll" size="48200">
+      <assemblyIdentity name="Microsoft.Web.WebView2.Wpf" version="1.0.2415.0" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SSuSjOpV8ILRyzL9FLU0Q2oDfx5qkVnpJXKWtMPj37U=</dsig:DigestValue>
+        <dsig:DigestValue>YCDMs7Qym7iUAH74GU9Ht8ZZgPuZ7FuJvRQ+ZhgV7UU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -785,40 +785,22 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="arm64\WebView2Loader.dll" size="124832">
+  <file name="mdr.exe.config" size="2445">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eKQAB4CsQmkBm//oJfL5YIkIv+pcNuw7nHLbrj2cUig=</dsig:DigestValue>
+      <dsig:DigestValue>tzDh7bG8jejGfrEZDcUzj6ISH5RUN/IvStErKCRr7gE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="mdr.exe.config" size="1764">
+  <file name="runtimes\win-x86\native\WebView2Loader.dll" size="116696">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RoTc7SIgDzfWLnJ/9kLgDg6MupB4oJV0hqmCn2s0IOI=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="x64\WebView2Loader.dll" size="137120">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9IOatb1C9dcqzrE5lVDOXo8r4sch3/3TZsZIIy6xW7I=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="x86\WebView2Loader.dll" size="109984">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HIex5pfx20O1iT+MhTFk9Ugo9fRAZ0e8DXr2TENkgBU=</dsig:DigestValue>
+      <dsig:DigestValue>v3HCREsjKVQnuOMB6g1RZMrRAuA4USKQWHhxdvOZGQY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
