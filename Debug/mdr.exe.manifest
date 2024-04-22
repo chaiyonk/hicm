@@ -270,14 +270,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="2013696">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="2016256">
       <assemblyIdentity name="mdr" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mhq04AkC/TYTN24aa8xHslkYe+vJTLVkn5VcwfhcwE8=</dsig:DigestValue>
+        <dsig:DigestValue>SQZCxTPk19x2mbaOlRg+he443IiZyxLGYO/36zAkfb4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
