@@ -72,12 +72,22 @@ mdr
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:mdr.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:mdr.My.Resources.Resources.failure">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:mdr.My.Resources.Resources.failure___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.insertcard">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -118,6 +128,11 @@ mdr
 </summary>
 </member>
 <member name="P:mdr.My.Resources.Resources.Microsoft_Office_Access__2019_present_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.no_image_icon_23479">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
