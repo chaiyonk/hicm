@@ -87,6 +87,16 @@ mdr
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:mdr.My.Resources.Resources.Graphicloads">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Graphicloads___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:mdr.My.Resources.Resources.insertcard">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -133,6 +143,11 @@ mdr
 </summary>
 </member>
 <member name="P:mdr.My.Resources.Resources.no_image_icon_23479">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:mdr.My.Resources.Resources.Ok">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
