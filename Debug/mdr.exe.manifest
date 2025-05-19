@@ -169,7 +169,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wsGvYoVgLKdymgh4ZcWhRYBmZnQMZ6Oout2KvNUDLQI=</dsig:DigestValue>
+        <dsig:DigestValue>ogG3xPXk93LrBVcJkFHHxfGXpnWQcVM0ZnPvcDXGdE0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -222,14 +222,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="2627072">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mdr.exe" size="2627584">
       <assemblyIdentity name="mdr" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6l5XzAncO3mF+I7FalCyiA2lg1GHlPV6mHANc86g8cM=</dsig:DigestValue>
+        <dsig:DigestValue>KQB31c6WieSSXkAZCp2mDKHDe4y/U05ZNwb89Iey6YA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -294,14 +294,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.mshtml.dll" size="8027744">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.mshtml.dll" size="8027776">
       <assemblyIdentity name="Microsoft.mshtml" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SC+T6LwYV0rjZvlvlqyz0iBMSg51ZMYI1AADVKj/0pw=</dsig:DigestValue>
+        <dsig:DigestValue>AF7OkGGYSLCZ02Ezr+Y4VxXIu+mUPDchEcGMFioZdFg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
